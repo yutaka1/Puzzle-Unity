@@ -5,6 +5,30 @@ EditorUserSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 4
   m_ConfigSettings:
+    RecentlyUsedScenePath-0:
+      value: 22424703114646781f0b0d361f311f3b1f0358676c18332a3725187cd1e33136e7f479ccff3b322c3507dc3f0130042cbd2f110afb1b060e3c0bf31b5fea1e1a05dc
+      flags: 0
+    RecentlyUsedScenePath-1:
+      value: 22424703114646781f0b0d361f311f3b1f0358676c18332a3725187cd1e33136e7f479dcf43f2d1f2b07ee28013a4e0ae10f1b28e40e0b1f140ab20014e83d161fd056d014c10b05
+      flags: 0
+    RecentlyUsedScenePath-2:
+      value: 22424703114646781f0b0d361f311f3b1f0358676c18332a3725187cd1e33136e7f479cde23c3e293516dc3f0130042cbd2e0c0df71e061f3d0beb0b1db1051d18d101
+      flags: 0
+    auto save:
+      value: 37434103
+      flags: 0
+    auto save prefab:
+      value: 37434103
+      flags: 0
+    auto save scene:
+      value: 37434103
+      flags: 0
+    auto save scene timer:
+      value: 37434103
+      flags: 0
+    save scene interval:
+      value: 5501
+      flags: 0
     vcSharedLogLevel:
       value: 0d5e400f0650
       flags: 0
